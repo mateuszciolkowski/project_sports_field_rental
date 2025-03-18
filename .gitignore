@@ -1,32 +1,16 @@
-# Prerequisites
-*.d
+#Global path to single directory 
+/ciolkowski/introduction/build 
+/ciolkowski/workshop/build
+/kazmierczak/introduction/build
+/kazmierczak/workshop/build
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+#DS_store files
+**/.DS_Store
+.DS_Store
 
-# Precompiled Headers
-*.gch
-*.pch
+#All cmake-build-debug directiories 
+cmake-build-debug
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+#All .idea 
+.idea
+*/.idea
