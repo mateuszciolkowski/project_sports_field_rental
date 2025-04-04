@@ -4,7 +4,6 @@ Projekt wypożyczalni obiektów sportowych był jednym z pierwszych projektów, 
 
 ## Umiejętności, które zdobyłem:
 
-W szczególności nauczyłem się:
 - podstaw obsługi Gita oraz platformy GitHub,
 - programowania obiektowego oraz jego praktycznego zastosowania,
 - odczytywania i tworzenia diagramów klas UML,
